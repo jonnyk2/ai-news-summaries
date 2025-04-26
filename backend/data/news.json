@@ -1,0 +1,114 @@
+{
+  "articles": [
+    {
+      "id": "scrape-1745684869015-0",
+      "title": "Plane tickets are getting cheaper as domestic travel demand weakens",
+      "summary": "",
+      "content": "",
+      "source": "cnbc.com",
+      "author": null,
+      "date": "April 26, 2025",
+      "url": "https://www.cnbc.com/2025/04/26/plane-tickets-cheap-travel.html",
+      "category": "business",
+      "provider": "scrape"
+    },
+    {
+      "id": "scrape-1745684869122-1",
+      "title": "More Americans are financing groceries with buy now, pay later loans, survey says",
+      "summary": "",
+      "content": "",
+      "source": "cnbc.com",
+      "author": null,
+      "date": "April 26, 2025",
+      "url": "https://www.cnbc.com/2025/04/26/americans-groceries-buy-now-pay-later-loans.html",
+      "category": "business",
+      "provider": "scrape"
+    },
+    {
+      "id": "scrape-1745684869122-2",
+      "title": "Buy now or delay: Here's what consumers are purchasing in face of tariffs",
+      "summary": "",
+      "content": "",
+      "source": "cnbc.com",
+      "author": null,
+      "date": "April 26, 2025",
+      "url": "https://www.cnbc.com/2025/04/25/trump-tariffs-news-car-purchases-rise-consumer-spending-slows.html",
+      "category": "business",
+      "provider": "scrape"
+    },
+    {
+      "id": "scrape-1745684869123-3",
+      "title": "Novo Nordisk scores major legal win that bars many Wegovy, Ozempic copies",
+      "summary": "",
+      "content": "",
+      "source": "cnbc.com",
+      "author": null,
+      "date": "April 26, 2025",
+      "url": "https://www.cnbc.com/2025/04/25/novo-nordisk-legal-win-bars-many-compounded-wegovy-ozempic-drugs.html",
+      "category": "business",
+      "provider": "scrape"
+    },
+    {
+      "id": "scrape-1745684869123-4",
+      "title": "MercadoLibre CEO: US-China trade war is a big opportunity for Latin America",
+      "summary": "",
+      "content": "",
+      "source": "cnbc.com",
+      "author": null,
+      "date": "April 26, 2025",
+      "url": "https://www.cnbc.com/2025/04/25/mercadolibre-ceo-marcos-galperin-trade-war-latin-america.html",
+      "category": "business",
+      "provider": "scrape"
+    },
+    {
+      "id": "scrape-1745684869123-5",
+      "title": "Private jet demand declines as tariffs spook would-be buyers",
+      "summary": "",
+      "content": "",
+      "source": "cnbc.com",
+      "author": null,
+      "date": "April 26, 2025",
+      "url": "https://www.cnbc.com/2025/04/25/private-jet-demand-declines-as-tariffs-spook-would-be-buyers.html",
+      "category": "business",
+      "provider": "scrape"
+    },
+    {
+      "id": "scrape-1745684869124-6",
+      "title": "As Trump targets Harvard and nonprofits, wealthy donors are wary of stepping up giving",
+      "summary": "",
+      "content": "",
+      "source": "cnbc.com",
+      "author": null,
+      "date": "April 26, 2025",
+      "url": "https://www.cnbc.com/2025/04/25/wealthy-donors-nonprofit-funding-freeze.html",
+      "category": "business",
+      "provider": "scrape"
+    },
+    {
+      "id": "scrape-1745684869124-8",
+      "title": "Companies from Chipotle to Delta are worried about tariffs. Here's what they're saying",
+      "summary": "",
+      "content": "",
+      "source": "cnbc.com",
+      "author": null,
+      "date": "April 26, 2025",
+      "url": "https://www.cnbc.com/2025/04/24/trump-tariffs-pepsi-chipotle-pg-cut-earnings-forecasts.html",
+      "category": "business",
+      "provider": "scrape"
+    },
+    {
+      "id": "scrape-1745684869124-9",
+      "title": "March home sales drop to their slowest pace since 2009",
+      "summary": "",
+      "content": "",
+      "source": "cnbc.com",
+      "author": null,
+      "date": "April 26, 2025",
+      "url": "https://www.cnbc.com/2025/04/24/march-home-sales-drop.html",
+      "category": "business",
+      "provider": "scrape"
+    }
+  ],
+  "lastUpdated": "2025-04-26T16:27:49.125Z",
+  "categories": {}
+}

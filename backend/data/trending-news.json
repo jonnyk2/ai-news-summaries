@@ -1,0 +1,87 @@
+{
+  "stories": [
+    {
+      "id": "trending-1745683453897-0",
+      "title": "Virginia Giuffre, who accused Britain’s Prince Andrew in Epstein sex trafficking scandal, has died",
+      "summary": "",
+      "category": "technology",
+      "sourceCount": 3,
+      "sources": [
+        "AP News",
+        "NPR",
+        "Fox News"
+      ],
+      "perspectives": [
+        {
+          "source": "AP News",
+          "title": "Virginia Giuffre, who accused Britain’s Prince Andrew in Epstein sex trafficking scandal, has died",
+          "summary": "",
+          "link": "https://apnews.com/article/virginia-roberts-giuffre-obit-778c4fdd6fac2522133ca3d79244bccd"
+        },
+        {
+          "source": "NPR",
+          "title": "Virginia Giuffre, who accused Prince Andrew in Epstein sex trafficking scandal, has died",
+          "summary": "April 26, 2025 • The American-born Giuffre, who lived in Australia for years, became an advocate for sex trafficking survivors after emerging as a central figure in financier Jeffrey Epstein's prolonged downfall.",
+          "link": "https://www.npr.org/2025/04/26/g-s1-62856/virginia-giuffre-has-died"
+        },
+        {
+          "source": "Fox News",
+          "title": "Virginia Giuffre, Jeffrey Epstein and Prince Andrew accuser, dies by suicide",
+          "summary": "",
+          "link": "https://www.foxnews.com/us/virginia-giuffre-jeffrey-epstein-prince-andrew-accuser-dead-41"
+        }
+      ]
+    },
+    {
+      "id": "trending-1745683453898-1",
+      "title": "Luigi Mangione pleads not guilty to federal death penalty charge in UnitedHealthcare CEO’s killing",
+      "summary": "",
+      "category": "health",
+      "sourceCount": 2,
+      "sources": [
+        "AP News",
+        "NPR"
+      ],
+      "perspectives": [
+        {
+          "source": "AP News",
+          "title": "Luigi Mangione pleads not guilty to federal death penalty charge in UnitedHealthcare CEO’s killing",
+          "summary": "",
+          "link": "https://apnews.com/article/unitedhealthcare-ceo-killing-luigi-mangione-nyc-bc926d92af482822c3186d55b87c5115"
+        },
+        {
+          "source": "NPR",
+          "title": "Luigi Mangione pleads not guilty to federal murder and stalking charges",
+          "summary": "April 25, 2025 • Mangione pleaded not guilty on Friday during his arraignment in the killing of UnitedHealthcare CEO Brian Thompson. Prosecutors have filed an intent to seek the death penalty.",
+          "link": "https://www.npr.org/2025/04/25/g-s1-62671/luigi-mangione-arraignment-death-penalty"
+        }
+      ]
+    },
+    {
+      "id": "trending-1745683453898-2",
+      "title": "Trump and Zelenskyy have 'very productive' talk as they attend Pope Francis' funeral",
+      "summary": "April 26, 2025 • It was their first face-to-face meeting since they argued in front of cameras in the Oval Office in February — and comes as efforts intensify to end Russia's war in Ukraine.",
+      "category": "technology",
+      "sourceCount": 2,
+      "sources": [
+        "NPR",
+        "Fox News"
+      ],
+      "perspectives": [
+        {
+          "source": "NPR",
+          "title": "Trump meets Zelenskyy during visit to Pope Francis' funeral",
+          "summary": "April 26, 2025 • It was their first face-to-face meeting since they argued in front of cameras in the Oval Office in February — and comes as efforts intensify to end Russia's war in Ukraine.",
+          "link": "https://www.npr.org/2025/04/26/g-s1-62926/trump-zelenskyy-pope-francis-funeral"
+        },
+        {
+          "source": "Fox News",
+          "title": "Trump and Zelenskyy have 'very productive' talk as they attend Pope Francis' funeral",
+          "summary": "",
+          "link": "https://www.foxnews.com/world/trump-zelenskyy-have-very-productive-talk-attend-pope-francis-funeral"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2025-04-26T16:04:13.898Z"
+}
